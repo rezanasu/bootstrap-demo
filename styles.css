@@ -1,0 +1,11 @@
+.body-color {
+    background-color: teal;
+}
+
+
+@media (max-width: 800px) {
+
+    .custom-color {
+        background-color: blue;
+    }
+}
